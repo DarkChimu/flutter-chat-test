@@ -1,4 +1,4 @@
-# friendly_chat
+# flutter-chat-test
 
 A new Flutter project.
 
